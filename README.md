@@ -91,8 +91,10 @@ streamlit run app.py
 <h2>📸 Screenshots</h2>
 <p>Here's a preview of what the application looks like:</p>
 
-<img src="https://via.placeholder.com/800x400.png?text=Add+Expense+Screen" alt="Add Expense Screen">
-<img src="https://via.placeholder.com/800x400.png?text=Analytics+Visualization" alt="Analytics Visualization">
+<img src="1.jpg" alt="Add Expense Screen" style="display: flex; justify-content: space-between; width: 30%; margin-right: 10px;" />
+<img src="2.jpg" alt="Analytics Visualization" style="display: flex; justify-content: space-between; width: 30%; margin-right: 10px;" />
+<img src="3.jpg" alt="Expense History" style="display: flex; justify-content: space-between; width: 30%;" />
+
 
 <p>The app allows you to add expenses, view your history, and analyze your spending with interactive visualizations.</p>
 
